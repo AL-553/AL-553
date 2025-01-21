@@ -9,7 +9,7 @@
 <h3>Frontend:</h3>
 <div>
   
-  ![html5, css3, javascript, webpack, sass, git, bootstrap](https://skillicons.dev/icons?i=html,css,js,webpack,sass,git,bootstrap)
+  ![html5 css3 javascript webpack sass git bootstrap](https://skillicons.dev/icons?i=html,css,js,webpack,sass,git,bootstrap)
   <p>и</p>
   <img src="https://github.com/user-attachments/assets/1007af62-60fe-4f5c-9db1-bfdc5c0eb1db" alt="bem">
 
@@ -17,7 +17,7 @@
 <hr>
 <h3>Backend:</h3>
 
-![node.js, npm, php, mysql](https://skillicons.dev/icons?i=nodejs,npm,php,mysql)
+![node.js npm php mysql](https://skillicons.dev/icons?i=nodejs,npm,php,mysql)
 
 <br><br><br>
 
@@ -29,11 +29,11 @@
 <h3>Frontend:</h3>
 <div>
   
-  ![html5, css3, javascript, webpack, sass, git, bootstrap](https://skillicons.dev/icons?i=html,css,js,webpack,sass,git,bootstrap)
+  ![html5 css3 javascript webpack sass git bootstrap](https://skillicons.dev/icons?i=html,css,js,webpack,sass,git,bootstrap)
   <p>and</p>
   <img src="https://github.com/user-attachments/assets/1007af62-60fe-4f5c-9db1-bfdc5c0eb1db" alt="bem">
 </div>
 <hr>
 <h3>Backend:</h3>
 
-![node.js, npm, php, mysql](https://skillicons.dev/icons?i=nodejs,npm,php,mysql)
+![node.js npm php mysql](https://skillicons.dev/icons?i=nodejs,npm,php,mysql)
