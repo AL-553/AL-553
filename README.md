@@ -9,7 +9,7 @@
 <h3>Frontend:</h3>
 <div>
   
-  ![html5 css3 javascript webpack sass git bootstrap](https://skillicons.dev/icons?i=html,css,js,webpack,sass,git,bootstrap)
+  ![html5 css3 javascript react redux typescript webpack sass git bootstrap](https://skillicons.dev/icons?i=html,css,js,react,redux,ts,webpack,sass,git,bootstrap)
   <p>и</p>
   <img src="https://github.com/user-attachments/assets/1007af62-60fe-4f5c-9db1-bfdc5c0eb1db" alt="bem">
 
@@ -29,7 +29,7 @@
 <h3>Frontend:</h3>
 <div>
   
-  ![html5 css3 javascript webpack sass git bootstrap](https://skillicons.dev/icons?i=html,css,js,webpack,sass,git,bootstrap)
+  ![html5 css3 javascript react redux typescript webpack sass git bootstrap](https://skillicons.dev/icons?i=html,css,js,react,redux,ts,webpack,sass,git,bootstrap)
   <p>and</p>
   <img src="https://github.com/user-attachments/assets/1007af62-60fe-4f5c-9db1-bfdc5c0eb1db" alt="bem">
 </div>
